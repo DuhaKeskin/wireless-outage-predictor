@@ -1,3 +1,5 @@
+# Proje Grubu - 2
+
 # LoPy4 Tabanlı Kablosuz Ağ Kesintisi Tahmin Sistemi
 
 Wi-Fi bağlantı kalitesini gerçek zamanlı izleyen ve makine öğrenmesi ile bağlantı kesintilerini önceden tahmin eden IoT tabanlı bir sistem.
